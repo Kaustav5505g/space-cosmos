@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/api/(.*)", "dest": "/api/$1" },
+    { "src": "/ai-assistant.js", "dest": "/ai-assistant.js" },
+    { "src": "/ai-assistant.css", "dest": "/ai-assistant.css" },
+    { "src": "/(.*)", "dest": "/space-cosmos.html" }
+  ]
+}
