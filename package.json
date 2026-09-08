@@ -1,7 +1,7 @@
 {
   "name": "space-cosmos",
   "version": "1.0.0",
-  "description": "",
+  "description": "Space Cosmos AI assistant",
   "main": "ai-assistant.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
