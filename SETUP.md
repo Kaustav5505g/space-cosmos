@@ -64,6 +64,8 @@ OPENAI_API_KEY=sk-...
 
 ---
 
+Keep `.env` local and never commit it to GitHub.
+
 ## Customisation
 
 | What | Where |
